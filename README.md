@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://quentin-derycke.github.io/Portfolio/](https://quentin-derycke.github.io/Portfolio/)
 
-- 💬 Ask me about **Metacognition and behaviorism**
+- 💬 Ask me about **metacognition and behaviorism**
 
 - 📫 How to reach me **quentinderycke6@gmail.com**
 

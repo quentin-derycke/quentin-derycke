@@ -2,7 +2,7 @@
 <h3 align="center">A highly motivated beginner  developer, eager to learn and develop my skills</h3>
 &nbsp;
 
-- 🌱 I’m currently learning **SvelteKit**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 Work in progress... [https://quentin-derycke.github.io/Portfolio/](https://quentin-derycke.github.io/Portfolio/)
 

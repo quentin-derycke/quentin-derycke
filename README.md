@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 Work in progress... [https://quentin-derycke.github.io/Portfolio/](https://quentin-derycke.github.io/Portfolio/)
+- 👨‍💻 Work in progress... [cognitive-biais-card/](https://cognitive-biais-cards-quentin-derycke.vercel.app)
 
 - 💬 Ask me about **metacognition and behaviorism**
 

@@ -2,7 +2,7 @@
 <h3 align="center">A highly motivated beginner  developer, eager to learn and develop my skills</h3>
 &nbsp;
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **.Net**
 
 - 👨‍💻 Work in progress... [cognitive-biais-card/](https://cognitive-biais-cards-quentin-derycke.vercel.app)
 
